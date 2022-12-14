@@ -24,6 +24,7 @@ GO111MODULE = on
 GOLANGCILINT_VERSION = 1.49.0
 RUNNING_IN_CI = true
 -include build/makelib/golang.mk
+toto
 
 # ====================================================================================
 # Setup Kubernetes tools
